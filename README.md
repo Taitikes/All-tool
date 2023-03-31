@@ -1,1 +1,3 @@
 # All-tool
+
+$ apt update
